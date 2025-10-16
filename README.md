@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🌌 Thu Thảo Nguyen (Aries)
 
-<!--
-**thaonguyenthuaries/thaonguyenthuaries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Exploring the unknown through data, imagination, and the cosmos."*
 
-Here are some ideas to get you started:
+👩‍🚀 **Student at [USTH - University of Science and Technology of Hanoi]**  
+🎓 **Major:** Data Science  
+🧠 **Interests:** Python • Quantum Computing • Data Visualisation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🪐 About Me
+I’m a Data Science student driven by curiosity about how information shapes our understanding of the universe.  
+From quantum algorithms to the art of visualization, I love blending science and creativity to tell stories through data.
+
+> *“In every dataset, there’s a hidden constellation waiting to be discovered.”*
+
+---
+
+### ⚙️ Tech & Tools
+```python
+skills = ["Python", "Data Visualisation", "Quantum Computing", "Scientific Thinking"]
+for skill in skills:
+    print(f"🚀 {skill}")
